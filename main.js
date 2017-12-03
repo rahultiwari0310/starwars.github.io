@@ -60,7 +60,7 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// __webpack_hash__
-/******/ 	__webpack_require__.h = "8ca60181150cc42f3e01";
+/******/ 	__webpack_require__.h = "ccc91d68a5c34af74da7";
 /******/
 /******/ 	// __webpack_chunkname__
 /******/ 	__webpack_require__.cn = "main";
@@ -3843,8 +3843,8 @@ Object.defineProperty(exports, "__esModule", {
 var Constants = {
     DEBUG_MODE: true,
     PAGE: {
-        HOME: '/',
-        DASHBOARD: '/starwars'
+        HOME: '/starwars.github.io',
+        DASHBOARD: '/starwars.github.io/starwars'
     },
     URLS: {
         PEOPLE: 'https://swapi.co/api/people',
